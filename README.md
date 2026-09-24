@@ -2,9 +2,7 @@
 
 Sitio web estático desarrollado para la **Escuela de Educación Secundaria Técnica N°7 "Manuel Sadosky"** de Lomas de Zamora, Buenos Aires, Argentina.
 
-## 🌐 Demo
 
-Una vez publicado en GitHub Pages, la URL será:
 
 ## 📋 Descripción
 
@@ -27,4 +25,4 @@ El sitio es **100% estático**, construido únicamente con **HTML5 y CSS3**, sin
 - Optimizado para carga rápida y accesibilidad
 - Publicable gratis en GitHub Pages, Netlify o Vercel
 
-## 📁 Estructura del proyecto
+
